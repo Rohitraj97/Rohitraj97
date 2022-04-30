@@ -33,6 +33,8 @@ I love to work on exciting projects that test what I've learnt, whilst being exp
 
 <code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="100" height="100"/>&nbsp;
+ 
  
  
  
